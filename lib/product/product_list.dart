@@ -55,8 +55,8 @@ class _ProductListState extends State<ProductList> {
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
                 Container(
-                  width: 500,
-                  height: 250,
+                  width: 300,
+                  height: 150,
                   decoration: BoxDecoration(
                       color: Colors.black,
                       border: Border.all(color: Colors.black, width: 3),
